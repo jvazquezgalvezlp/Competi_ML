@@ -25,6 +25,7 @@ Results:
 The best predicting model appears to be XGB Regressor with a RMSE of a 532 aprox. (calculated using cross validation)
 
 Tech:
+
 - Python 3.8.5
 - Pandas 1.1.3
 - Seaborn 0.11.0
